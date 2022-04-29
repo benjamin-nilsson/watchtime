@@ -1,0 +1,20 @@
+.header {
+    background: var(--watchtime-color);
+}
+
+.link {
+    color: var(--primary-color);
+    text-decoration: none;
+    margin-left: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.link:hover {
+    color: var(--secondary-color);
+}
+
+.link:focus {
+    color: #fff;
+}
+

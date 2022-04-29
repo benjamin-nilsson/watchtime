@@ -1,0 +1,13 @@
+.tvshow_list {
+    margin: 0rem 3rem;
+    margin-top: 5rem;
+    padding: 1rem;
+    /*border-top: 1px solid #909096;
+    border-bottom: 1px solid #909096;*/
+}
+
+h5 {
+    font-size: 25px;
+    font-weight: 600;
+    color: #f7f7f7;
+}
