@@ -1,7 +1,7 @@
 # Watchtime
 Watchtime app.
 Information about movies and tv-shows, you are able to create a account and log in and store movies and tv-shows from the OMDB api.
-School project made Benjamin Nilsson and William Hökegård.
+School project made by Benjamin Nilsson and William Hökegård.
 
 ### To run:
 `cd src/frontend`
